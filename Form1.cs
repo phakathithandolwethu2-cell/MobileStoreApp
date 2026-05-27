@@ -74,9 +74,7 @@ namespace MobileStockCapture
             }
 
         }
-        /* difference between load testing and stress testing in non-functional test design.
-         * load testing is a type of performance testing that evaluates how a system performs under expected or normal load conditions. It simulates real-world usage to determine if the system can handle the anticipated number of users, transactions, or data volume without significant performance degradation. The primary goal of load testing is to identify bottlenecks and ensure that the system can meet performance requirements under typical usage scenarios. while stress testing is a type of performance testing that evaluates how a system performs under extreme or beyond-normal load conditions. It intentionally pushes the system to its limits to identify its breaking point and how it handles high levels of stress. The primary goal of stress testing is to determine the system's robustness, stability, and ability to recover from failure when subjected to excessive load or resource constraints. In summary, load testing focuses on normal usage scenarios, while stress testing focuses on extreme conditions to assess system resilience.*/
-
+        
         private void btnFind_Click(object sender, EventArgs e)
         {
 
